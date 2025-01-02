@@ -7,6 +7,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [sleep_in](https://codingbat.com/prob/p173401) 
     - [sleep_in.py](warmup_1/sleep_in.py)
 - [monkey_trouble](https://codingbat.com/prob/p120546)
+    - [monkey_trouble.py](warmup_1/monkey_trouble.py)
 - [sum_double](https://codingbat.com/prob/p141905)
 - [diff21](https://codingbat.com/prob/p197466)
 - [parrot_trouble](https://codingbat.com/prob/p166884)
