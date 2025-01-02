@@ -2,8 +2,6 @@
 
 This repository contains my solutions to Python problems from [CodingBat](https://codingbat.com/python).
 
-<br>
-
 ## [Warmup-1](https://codingbat.com/python/Warmup-1)
 
 - [sleep_in](https://codingbat.com/prob/p173401)
@@ -19,8 +17,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [front_back](https://codingbat.com/prob/p153599)
 - [front3](https://codingbat.com/prob/p147920)
 
-<br>
-
 ## [Warmup-2](https://codingbat.com/python/Warmup-2)
 
 - [string_times](https://codingbat.com/prob/p193507)
@@ -32,8 +28,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [array_front9](https://codingbat.com/prob/p110166)
 - [array123](https://codingbat.com/prob/p193604)
 - [string_match](https://codingbat.com/prob/p182414)
-
-<br>
 
 ## [String-1](https://codingbat.com/python/String-1)
 
@@ -48,8 +42,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [combo_string](https://codingbat.com/prob/p194053)
 - [non_start](https://codingbat.com/prob/p127703)
 - [left2](https://codingbat.com/prob/p160545)
-
-<br>
 
 ## [List-1](https://codingbat.com/python/List-1)
 
@@ -66,8 +58,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [make_ends](https://codingbat.com/prob/p124806)
 - [has23](https://codingbat.com/prob/p177892)
 
-<br>
-
 ## [Logic-1](https://codingbat.com/python/Logic-1)
 
 - [cigar_party](https://codingbat.com/prob/p195669)
@@ -80,8 +70,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [in1to10](https://codingbat.com/prob/p158497)
 - [near_ten](https://codingbat.com/prob/p165321)
 
-<br>
-
 ## [Logic-2](https://codingbat.com/python/Logic-2)
 
 - [make_bricks](https://codingbat.com/prob/p118406)
@@ -92,8 +80,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [close_far](https://codingbat.com/prob/p160533)
 - [make_chocolate](https://codingbat.com/prob/p190859)
 
-<br>
-
 ## [String-2](https://codingbat.com/python/String-2)
 
 - [double_char](https://codingbat.com/prob/p170842)
@@ -102,8 +88,6 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [count_code](https://codingbat.com/prob/p186048)
 - [end_other](https://codingbat.com/prob/p174314)
 - [xyz_there](https://codingbat.com/prob/p149391)
-
-<br>
 
 ## [List-2](https://codingbat.com/python/List-2)
 
