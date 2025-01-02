@@ -4,7 +4,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 
 ## [Warmup-1](https://codingbat.com/python/Warmup-1)
 
-- [sleep_in](https://codingbat.com/prob/p173401)
+- [sleep_in](https://codingbat.com/prob/p173401) - [Solution](warmup_1/sleep_in.py)
 - [monkey_trouble](https://codingbat.com/prob/p120546)
 - [sum_double](https://codingbat.com/prob/p141905)
 - [diff21](https://codingbat.com/prob/p197466)
