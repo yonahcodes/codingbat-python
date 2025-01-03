@@ -9,8 +9,9 @@ monkey_trouble(True, True) → True
 monkey_trouble(False, False) → True
 monkey_trouble(True, False) → False
 
-Date: 01 01 2025
+Date: 02 01 2025
 """
+
 
 def monkey_trouble(a_smile, b_smile):
     if a_smile == b_smile:

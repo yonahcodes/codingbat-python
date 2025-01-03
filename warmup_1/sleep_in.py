@@ -12,8 +12,9 @@ sleep_in(False, True) → True
 Date: 01 01 2025
 """
 
+
 def sleep_in(weekday, vacation):
-  if not weekday or vacation:
-    return True
-  else:
-    return False
+    if not weekday or vacation:
+        return True
+    else:
+        return False
