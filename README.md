@@ -6,19 +6,30 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 
 - [sleep_in](https://codingbat.com/prob/p173401) 
     - [sleep_in.py](warmup_1/sleep_in.py)
+
 - [monkey_trouble](https://codingbat.com/prob/p120546)
     - [monkey_trouble.py](warmup_1/monkey_trouble.py)
+
 - [sum_double](https://codingbat.com/prob/p141905)
     - [sum_double.py](warmup_1/sum_double.py)
+
 - [diff21](https://codingbat.com/prob/p197466)
     - [diff21.py](warmup_1/diff21.py)
+
 - [parrot_trouble](https://codingbat.com/prob/p166884)
+
 - [makes10](https://codingbat.com/prob/p124984)
+
 - [near_hundred](https://codingbat.com/prob/p124676)
+
 - [pos_neg](https://codingbat.com/prob/p162058)
+
 - [not_string](https://codingbat.com/prob/p189441)
+
 - [missing_char](https://codingbat.com/prob/p149441)
+
 - [front_back](https://codingbat.com/prob/p153599)
+
 - [front3](https://codingbat.com/prob/p147920)
 
 ## [Warmup-2](https://codingbat.com/python/Warmup-2)
