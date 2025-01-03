@@ -9,6 +9,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [monkey_trouble](https://codingbat.com/prob/p120546)
     - [monkey_trouble.py](warmup_1/monkey_trouble.py)
 - [sum_double](https://codingbat.com/prob/p141905)
+    - [sum_double.py](warmup_1/sum_double.py)
 - [diff21](https://codingbat.com/prob/p197466)
 - [parrot_trouble](https://codingbat.com/prob/p166884)
 - [makes10](https://codingbat.com/prob/p124984)
