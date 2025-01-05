@@ -15,6 +15,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [parrot_trouble](https://codingbat.com/prob/p166884)
     - [parrot_trouble.py](warmup_1/parrot_trouble.py)
 - [makes10](https://codingbat.com/prob/p124984)
+    - [makes10.py](warmup_1/makes10.py)
 - [near_hundred](https://codingbat.com/prob/p124676)
 - [pos_neg](https://codingbat.com/prob/p162058)
 - [not_string](https://codingbat.com/prob/p189441)
