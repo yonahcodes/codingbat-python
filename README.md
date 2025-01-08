@@ -21,6 +21,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [pos_neg](https://codingbat.com/prob/p162058)
     - [pos_neg.py](warmup_1/pos_neg.py)
 - [not_string](https://codingbat.com/prob/p189441)
+    - [not_string.py](warmup_1/not_string.py)
 - [missing_char](https://codingbat.com/prob/p149441)
 - [front_back](https://codingbat.com/prob/p153599)
 - [front3](https://codingbat.com/prob/p147920)
