@@ -24,6 +24,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
     - [not_string.py](warmup_1/not_string.py)
 - [missing_char](https://codingbat.com/prob/p149441)
 - [front_back](https://codingbat.com/prob/p153599)
+    - [front_back.py](warmup_1/front_back.py)
 - [front3](https://codingbat.com/prob/p147920)
 
 ## [Warmup-2](https://codingbat.com/python/Warmup-2)
