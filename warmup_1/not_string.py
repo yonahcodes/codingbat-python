@@ -12,6 +12,7 @@ not_string('not bad') → 'not bad'
 Date: 08 01 2025
 """
 
+
 def not_string(str):
     if str.startswith("not"):
         return str

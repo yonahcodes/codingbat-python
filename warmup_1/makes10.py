@@ -11,6 +11,7 @@ makes10(1, 9) → True
 Date: 05 01 2025
 """
 
+
 def makes10(a, b):
     if (a == 10 or b == 10) or a + b == 10:
         return True

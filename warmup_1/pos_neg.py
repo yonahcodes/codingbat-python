@@ -12,6 +12,7 @@ pos_neg(-4, -5, True) → True
 Date: 07 01 2025
 """
 
+
 def pos_neg(a, b, negative):
     if not negative:
         return (a < 0 and b > 0) or (a > 0 and b < 0)
