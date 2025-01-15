@@ -23,6 +23,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [not_string](https://codingbat.com/prob/p189441)
     - [not_string.py](warmup_1/not_string.py)
 - [missing_char](https://codingbat.com/prob/p149441)
+    - [missing_char.py](warmup_1/missing_char.py)
 - [front_back](https://codingbat.com/prob/p153599)
     - [front_back.py](warmup_1/front_back.py)
 - [front3](https://codingbat.com/prob/p147920)
