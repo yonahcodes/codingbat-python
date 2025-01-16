@@ -27,6 +27,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [front_back](https://codingbat.com/prob/p153599)
     - [front_back.py](warmup_1/front_back.py)
 - [front3](https://codingbat.com/prob/p147920)
+    - [front3.py](warmup_1/front3.py)
 
 ## [Warmup-2](https://codingbat.com/python/Warmup-2)
 
