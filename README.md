@@ -32,6 +32,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 ## [Warmup-2](https://codingbat.com/python/Warmup-2)
 
 - [string_times](https://codingbat.com/prob/p193507)
+    - [string_times.py](warmup_2/string_times.py)
 - [front_times](https://codingbat.com/prob/p165097)
 - [string_bits](https://codingbat.com/prob/p113152)
 - [string_splosion](https://codingbat.com/prob/p118366)
