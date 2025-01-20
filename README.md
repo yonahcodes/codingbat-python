@@ -36,6 +36,7 @@ This repository contains my solutions to Python problems from [CodingBat](https:
 - [front_times](https://codingbat.com/prob/p165097)
     - [front_times.py](warmup_2/front_times.py)
 - [string_bits](https://codingbat.com/prob/p113152)
+    - [string_bits.py](warmup_2/string_bits.py)
 - [string_splosion](https://codingbat.com/prob/p118366)
 - [last2](https://codingbat.com/prob/p145834)
 - [array_count9](https://codingbat.com/prob/p166170)
